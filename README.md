@@ -1,3 +1,5 @@
+![Python 3.8](https://img.shields.io/badge/Python-3.8-brightgreen.svg)
+
 # majorana_fermions
 
 A Majorana fermion, also referred to as a Majorana particle, is a fermion that is its own antiparticle. They were hypothesised by Ettore Majorana in 1937. The term is sometimes used in opposition to a Dirac fermion, which describes fermions that are not their own antiparticles.
